@@ -133,5 +133,5 @@ view.align(alignment: .Left, .Top)
 ##Installation
 
 1. Download the project.
-2. Open the "playground.xcworkspace" if you want to play around and experiment with the methods. All examples above are included in the playground. 
+2. Open the "JWChainableUIView.playground" if you want to play around and experiment with the methods. All examples above are included in the playground. 
 3. Copy the "JWChainableUIViewExtension.swift" from the "Sources" folder and add it to the project you want to use it in. 
